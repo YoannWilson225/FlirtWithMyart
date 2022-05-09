@@ -1,0 +1,35 @@
+Nom de la base de données: flirtwith
+Mot de passe du site: ce!tnuc4e%GF*p%*)(
+
+Instructions: 
+
+Une fois le dossier décompressé tu devras me lire.
+Je contiens le nom de la base de données (que tu devra créer
+dans PhpMyAdmain de WampServer) et le mot de passe de ton site 
+wordpress.
+
+Nb: Décompresse le fichier winrar à la racine de ton dossier www
+qui se trouve dans wamp64.
+
+Ensuite dans le fichier htaccess rajoute ça:
+
+php_value upload_max_filesize 64M
+php_value post_max_size 64M
+php_value max_execution_time 300
+php_value max_input_time 300
+
+Pour que ton site supporte les différents thèmes et extensions
+installés aussi les images.
+
+Parfait!
+
+
+j'ai exporté la base de données, tu devra l'importer dans la
+base de données que tu auras créée.
+
+On se voit à 17h.
+
+/=======*************Madara*************=======/
+
+
+
